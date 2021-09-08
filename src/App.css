@@ -1,38 +1,33 @@
-.App {
-  text-align: center;
+.h-10 {
+  max-height: 5em;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.h-20 {
+  max-height: 10em;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.h-5 {
+  max-height: 3em;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.aboutMe {
+  background-image:url('https://img.freepik.com/free-photo/technology-network-background_34629-304.jpg?size=626&ext=jpg');
+}
+.aboutMeHeader {
+  background-color: rgba(33, 33, 35, 1);
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.aboutMeBody {
+  background-color: rgba(33, 33, 35, 0.5);
+  color: white;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+i {
+  font-size: 5em;
+  padding: .4em;
+}
+.languages {
+  background-color: rgba(5, 43, 78, 1);
+}
+.projects {
+  background-color: rgba(5, 43, 78, 1);
+}
+.w-33 {
+  width: 45%;
 }
