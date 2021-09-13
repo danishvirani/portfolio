@@ -31,3 +31,7 @@ i {
 .w-33 {
   width: 45%;
 }
+.vl {
+  border-left: .25em solid grey;
+  height: 20vh;
+}

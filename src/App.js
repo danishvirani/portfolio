@@ -13,7 +13,7 @@ const App = () => {
                     <p>Full-Stack Software Engineer</p>
                     <p>danishvirani.tech@gmail.com</p>
                 </div>
-                  <img src="https://lh3.googleusercontent.com/proxy/N7d4loAKThoZsHSyP8dciZ4JsFLibNa2nyFSzZ23zew0vT5M1q86dasndwM9Wvmmeuq_j30s9cLaO54OGJpVEMed4vyeSkLJh6_dD_YfMOWvrLlPGKpXr0pwx5uJttF67gIo0-4ism1bReIT6Q" alt='line' class="h-20 mt-3"/>
+                  <div class="vl mx-5 align-self-center"></div>
                   <div class='mt-3 d-flex flex-column text-center'>
                   <a href="https://www.linkedin.com/in/danishvirani/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt='linkdin' class='h-5'/></a>
                   <a href="https://github.com/danishvirani"><img src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-256.png" alt='linkdin' class='h-5 mt-4'/></a><br/>
