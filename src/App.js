@@ -5,7 +5,7 @@ import './App.css';
 const App = () => {
   return(
           <>
-            <nav class="sticky-top navbar-light bg-light h-25">
+            <nav class="sticky-top navbar-light bg-light h-25 mx-2">
               <div class="d-flex justify-content-center">
                 <div class='mt-2 text-center'>
                     <img src='https://i.imgur.com/avKGbEu.jpg' alt="Danish Virani Picture" class='rounded-circle h-10 mx-auto mb-1'/>
@@ -38,12 +38,14 @@ const App = () => {
             <br/>
             <h3 class='bg-dark text-white py-2 w-75 mx-auto my-0'>Languages:</h3>
             <br/>
+
             <i class="devicon-javascript-plain colored"></i>
             <i class="devicon-python-plain-wordmark colored"></i>
             <i class="devicon-ruby-plain-wordmark colored"></i>
+
             <br/><br/>
-            <div class="d-flex flex-row justify-content-evenly">
-              <div class="card w-25">
+            <div class="d-flex justify-content-evenly lang-box">
+              <div class="card mx-2 my-2">
                 <div class="card-header">
                 Backend
                 </div>
@@ -55,7 +57,7 @@ const App = () => {
                   <i class="devicon-rails-plain-wordmark colored"></i>
                 </div>
               </div>
-              <div class="card w-25">
+              <div class="card mx-2 my-2">
                 <div class="card-header">
                 Frontend
                 </div>
@@ -66,7 +68,7 @@ const App = () => {
                   <i class="devicon-vuejs-plain-wordmark colored"></i>
                 </div>
               </div>
-              <div class="card w-25">
+              <div class="card mx-2 my-2">
                 <div class="card-header">
                 CSS Frameworks
                 </div>
