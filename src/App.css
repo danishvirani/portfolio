@@ -1,5 +1,8 @@
 .h-10 {
-  max-height: 5em;
+  max-height: 6em;
+}
+.h-15 {
+    max-height: 8em;
 }
 .h-20 {
   max-height: 10em;
@@ -33,7 +36,7 @@ i {
 }
 .vl {
   border-left: .25em solid grey;
-  height: 20vh;
+  height: 10vh;
 }
 @media screen and (max-width: 600px) {
   .card {
