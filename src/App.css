@@ -45,4 +45,24 @@ i {
   .lang-box {
     flex-direction: column;
   }
+  .h-10 {
+    max-height: 3em;
+  }
+  .h-15 {
+      max-height: 4em;
+  }
+  .h-20 {
+    max-height: 5em;
+  }
+  .h-5 {
+    max-height: 1.5em;
+  }
+  .namebox {
+    font-size: 50%;
+    margin-bottom: -.1em;
+    align-self: center;
+  }
+  .vl {
+    height: 7vh;
+  }
 }

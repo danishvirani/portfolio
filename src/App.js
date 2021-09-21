@@ -7,20 +7,20 @@ const App = () => {
           <>
             <nav class="sticky-top navbar-light bg-light h-15 w-100">
               <div class="d-flex justify-content-around w-100">
-                <div class='mt-2 d-flex justify-content-between w-25'>
+                <div class='d-flex justify-content-between w-25'>
                     <img src='https://i.imgur.com/avKGbEu.jpg' alt="Danish Virani Picture" class='rounded-circle h-10 align-self-center'/>
 
                     <div>
-                    <h3>Danish Virani</h3>
-                    <p>Full-Stack Software Engineer</p>
-                    <p>danishvirani.tech@gmail.com</p>
+                    <h3 class='namebox'>Danish Virani</h3>
+                    <p class='namebox'>Full-Stack Software Engineer</p>
+                    <p class='namebox'>danishvirani.tech@gmail.com</p>
                     </div>
                 </div>
                   <div class="vl mx-5 align-self-center"></div>
                   <div class='mt-3 d-flex text-center justify-content-between w-25'>
                   <a href="https://www.linkedin.com/in/danishvirani/" class="align-self-center"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt='linkdin' class='h-5 align-self-center'/></a>
                   <a href="https://github.com/danishvirani" class='align-self-center'><img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt='github' class='h-5'/></a>
-                  <a href="https://docs.google.com/document/d/1H-1_SJJRwMBqpt-21vzW4se1xyysSL_VAWQdX5nYGlM/edit?usp=sharing" class="align-self-center">Resume</a>
+                  <a href="https://docs.google.com/document/d/1H-1_SJJRwMBqpt-21vzW4se1xyysSL_VAWQdX5nYGlM/edit?usp=sharing" class="align-self-center namebox">Resume</a>
                   </div>
 
               </div>
